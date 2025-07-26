@@ -38,8 +38,4 @@ Here are a few of the projects I've worked on — all available on my GitHub:
 
 ## 📫 Get in Touch
 
-- Email: your.email@example.com  
-- LinkedIn: [your-linkedin-url](https://linkedin.com/in/JemTB)  
-- Resume: [your-resume-link.com](https://example.com)
-
 Thanks for stopping by! 😊
