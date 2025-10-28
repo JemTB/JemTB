@@ -1,32 +1,27 @@
 # Hi, I'm [JemTB] 👋
 
-🎓 I'm a mathematics student with a passion for solving problems through code.  
-💻 I'm currently learning and building projects in Python, numerical computing, and algorithm design.  
-🔍 Looking for opportunities in **software development**, **scientific computing**, or **data engineering**.
+I'm a mathematics student with a passion for solving problems through code.  
+I'm currently learning and building projects in Python
+Looking for opportunities in **Software Development**, **Cryptography** and **Cyber Security**
 
 ---
 
-## 🧠 Interests
+## Interests
 
-- 🧮 Numerical methods, algorithms, and applied mathematics  
-- 🧪 Scientific computing & automation tools  
-- 📊 Data analysis and visualization  
-- 🌱 Always learning: Python, C++, and more!
+- Numerical Linear Algebra, Algorithms, Applied Mathematics
+- Cryptography, Information Security, Cyber Security
+- Quantum Computing, Quantum Algorithms & Future Development    
+- Always learning Python!
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 Here are a few of the projects I've worked on — all available on my GitHub:
 
-🔹 [**Numerical Methods Toolkit**](https://github.com/JemTB/numerical-methods-toolkit)  
-*A Python library implementing root-finding, integration, and ODE solvers with clean code and educational examples.*
+🔹 [**RSA**](https://github.com/JemTB/RSA-cryptosystem)
+*lore ipsum*
 
-🔹 [**Linear Algebra Visualizer**](https://github.com/JemTB/linear-algebra-visualizer)  
-*A visual explanation tool for matrix transformations and vector spaces using Python and Matplotlib.*
-
-🔹 [**Graph Algorithms Explorer**](https://github.com/JemTB/graph-algorithms)  
-*Classic graph algorithms with clear implementation and visual output.*
 
 ---
 
@@ -36,6 +31,4 @@ Here are a few of the projects I've worked on — all available on my GitHub:
 
 ---
 
-## 📫 Get in Touch
-
-Thanks for stopping by! 😊
+Thanks for stopping by! :D
